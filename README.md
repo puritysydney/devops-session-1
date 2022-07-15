@@ -94,3 +94,7 @@ sudo su ubuntu
 ```
 sudo apt update
 ```
+
+### July 14, 2022
+`key` : it is what connect you to a server.
+Security Group: it is firewall rule that controls incoming & outgoing traffic. it is a virtual firewall the Ec2 instance.(it is a rules  that prevents incoming & outgoing traffic)
